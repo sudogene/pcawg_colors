@@ -11,7 +11,7 @@ pip install pcawg-colors
 
 ## Usage Example
 ```python
-import pcawg_colors as pc
+from pcawg_colors import pcawg_colors as pc
 
 color1 = pc.coding_snv.nonsynonymous
 color2 = pc.chromosomes.chr1
